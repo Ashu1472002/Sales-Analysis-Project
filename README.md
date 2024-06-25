@@ -49,10 +49,20 @@ The advanced_analysis includes:
 ## Key Insights
 
 - **Best Month for Sales**: December, with total earnings of 4613443.34.
+  ![image](https://github.com/Ashu1472002/Sales-Analysis-Project/assets/71172888/0087965c-ee82-4fe1-9952-67afd4978a64)
+
 - **City with Highest Sales**: San Fransisco CA.
-- **Optimal Advertising Time**: 11 AM to 1 PM  and 6 PM to 8 PM.
+  ![image](https://github.com/Ashu1472002/Sales-Analysis-Project/assets/71172888/31c90085-c1d6-43fb-a6fc-4b636f2ed61a)
+
+- **Optimal Advertising Time**: 12 PM to 2 PM  and 7 PM to 9 PM.
+  ![image](https://github.com/Ashu1472002/Sales-Analysis-Project/assets/71172888/1705f2d2-b5de-4de3-9012-ea0ea0191586)
+
 - **Frequently Sold Together Products**: Product iPhone and Product lightning charging cables.
+  ![image](https://github.com/Ashu1472002/Sales-Analysis-Project/assets/71172888/7a79e8c3-b05e-4061-bddf-d9db23312d54)
+
 - **Top-Selling Product**: Product AAA Batteries, likely due to its high demand during seasonal promotions.
+  ![image](https://github.com/Ashu1472002/Sales-Analysis-Project/assets/71172888/9bde89e3-4f15-4914-a5b2-1851f8a8ba0b)
+
 
 ## How to Use
 
